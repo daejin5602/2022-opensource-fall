@@ -32,4 +32,7 @@ $ vim abc.txt <-- abc.txt 파일을 vim 에디터로 열기
 리커버리모드로 수정중인 파일을 복구하고, 스왑파일을 삭제한다.
 ```bash
 vim -r abc.txt
+
+## Git
+Test
 ```
